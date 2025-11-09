@@ -5,7 +5,7 @@ The `guessinggame.sh` program asks the user to guess the number of files in the 
 The program will tell the user if their guess is too high or too low and will continue until the correct number is guessed.
 
 ## 📅 Make Info
-- Date and Time make was run: 2025-11-09 14:00
+- Date and Time make was run: 2025-11-09 14:38
 - Number of lines in guessinggame.sh: 22
 
 ## 🚀 How to Run
